@@ -54,8 +54,8 @@ subgraph Method learning
     
 end
   id5 --> recurring
-```
 
+```
 ### Goals & Reports
 1. [x] Week1 [Report](./report/weekly-report/week1.md)
     - Xiaoying YANG
@@ -138,3 +138,6 @@ end
     pip install opencv-python
     pip install numpy
     ```
+
+
+
